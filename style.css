@@ -1,0 +1,171 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: linear-gradient(to left,  #d4a0ff,#e2919f,#f7d28d ) ;
+}
+.form{
+    height: 550px;
+    width: 20%;
+    margin-left: 8%;
+    background:#ecc87a;
+    position: fixed;
+    padding-left: 25px;   
+}
+.form2{
+    height: 550px;
+    width: 650px;
+    margin-left: 30%;
+    margin-top: 8%;
+    background: #f2f7f7;
+    border-radius: 0;
+}
+h2{
+    top: 20%;
+    font-size: 10px; 
+    left: 35px; 
+    text-align: right;
+
+}
+
+ul a{
+    color: rgb(91, 171, 245);
+    position: relative;
+    left: -10%;
+    top: 35px;
+    font-size: 18px;
+
+}
+h5{
+    color: #695d15;
+    background: none;
+    font-family: pacifico;
+    margin-bottom: 50px;
+    cursor: pointer; 
+   
+    
+}
+
+.form p{
+  color: #695d15;
+  font-size: 20px;
+  background: none;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+img{
+   margin-right: 0;
+   margin-top: 35%;
+   width: 250px;
+   height: 300px;
+   
+}
+
+
+.form2  h3{
+    text-align: center;
+    font-size: 20px;
+    margin: 9px 0;
+  }
+ .form2 h6{ border: 3px solid #f1f1f1;
+  margin-top: 10px;
+  margin-left: 75%;
+}
+h1{
+    margin-top: 2%;
+    margin-left: 30%;
+}
+.signup{
+    background-color: #153be2;
+    padding:-1px;
+    border-radius: 1px;
+    height: 30px;
+    width: 150px;
+    margin-left: 30%;
+}
+.or{
+    margin-left: 25%;
+    margin-top: 3%;
+}
+.btn{
+    font-size: 18px;
+    font-weight: bold;
+    margin: 15px 0;
+    padding: 3px 10px;
+   width: 150px;
+    border-radius: 6px;
+    background-color: #0829bd;
+ } 
+ .six{
+    font-size: 18px;
+    font-weight: bold;
+    margin: 15px 0;
+    width: 150px;
+    border-radius: 6px;
+    background-color: #e026a2;
+ } 
+.one{
+    padding-left: 20%;
+}
+.two{
+margin-left: 70%;
+margin-top: -5%;
+height: 50px;
+}
+.three{ 
+    margin-left: 20%;
+    margin-bottom: 5%;
+}
+.four{
+    margin-left: 20%;
+    margin-bottom: 3%;
+}
+.seven{
+    margin-left: 30%;
+    margin-bottom: 3%; 
+}
+.eight{
+    margin-left: 30%;
+    margin-bottom: 3%;
+}
+.checkbox{
+    margin-left: 22%;
+    margin-bottom: 3%;
+}
+.btn2{
+    margin-left: 30%;
+    margin-top: 10%;
+    background-color: #f568c6;
+    width: 120px;
+    height: 20px;
+}
+.words{
+    margin-top: 10%;
+    margin-left: 30%;
+    font-size: small;
+
+}
+.word{
+    margin-top: 15%;
+    margin-left: 30%;
+    font-size: small;
+}
+.btn3{
+    margin-left: 30%;
+    margin-top: 10%;
+    background-color: #f568c6;
+    width: 120px;
+    height: 20px;
+}
+
+
+
+
+ 
+
+  
+    
+ 
+ 
